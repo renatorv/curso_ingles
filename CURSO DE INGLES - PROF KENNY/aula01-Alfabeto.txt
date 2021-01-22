@@ -1,0 +1,32 @@
+A - EI
+E - I
+I - AI
+O - OU
+U - IU
+
+A - EI
+B - BI
+C - CI
+D - DI
+E - I
+F - ÉF
+G - GI
+H - EITI
+I - AI
+J - DJEI
+K - KEY
+L - ÉL 
+M - EM
+N - EN
+O - OU
+P - PI 
+Q - QUIU
+R - AR
+S - ÉSS
+T - TI
+U - IU
+V - VI
+W - DOUBLE YOU
+X - EKSIS
+Y - UAI
+Z - ZI
