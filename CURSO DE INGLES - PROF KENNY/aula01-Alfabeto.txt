@@ -11,7 +11,7 @@ D - DI
 E - I
 F - ÉF
 G - GI
-H - EITI
+H - EITH
 I - AI
 J - DJEI
 K - KEY
